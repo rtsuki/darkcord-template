@@ -1,0 +1,27 @@
+{
+  "name": "darkcord-template",
+  "version": "1.0.0",
+  "description": "Basic template to create a Discord bot using Node.js and Darkcord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtsuki/darkcord-template.git"
+  },
+  "keywords": [
+    "Bot",
+    "Darkcord",
+    "Template"
+  ],
+  "author": "tk#1000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtsuki/darkcord-template/issues"
+  },
+  "homepage": "https://github.com/rtsuki/darkcord-template#readme",
+  "dependencies": {
+    "darkcord": "^1.1.2"
+  }
+}
